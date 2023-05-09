@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+#container {
+    width: 1050px;
+    height: 450px;
+    background-color: rgb(51, 204, 46);
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 20px;
+}
+
+#part1 {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(90, 141, 212);
+    border-radius: 20px 20px 0px 0px;
+}
+
+#part2 {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(90, 212, 175);
+}
+
+#part3 {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(211, 98, 223);
+    border-radius: 0px 0px 20px 20px;
+}
+
+input {
+    width: 145.6px;
+    height: 150px;
+    font-size: 2em;
+}
+
+#score1,
+#score2 {
+    height: 150px;
+    width: 350px;
+    text-align: center;
+}
+
+#score2 {
+    margin-left: 328.5px;
+}
